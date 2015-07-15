@@ -1,0 +1,5 @@
+G:\Android\MapChat\MapChatService\MapChatService.DBUtility\bin\Debug\MapChatService.DBUtility.dll
+G:\Android\MapChat\MapChatService\MapChatService.DBUtility\bin\Debug\MapChatService.DBUtility.pdb
+G:\Android\MapChat\MapChatService\MapChatService.DBUtility\obj\Debug\MapChatService.DBUtility.dll
+G:\Android\MapChat\MapChatService\MapChatService.DBUtility\obj\Debug\MapChatService.DBUtility.pdb
+G:\Android\MapChat\MapChatService\MapChatService.DBUtility\obj\Debug\MapChatService.DBUtility.csprojResolveAssemblyReference.cache

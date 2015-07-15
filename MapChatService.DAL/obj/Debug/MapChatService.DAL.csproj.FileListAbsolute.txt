@@ -1,0 +1,11 @@
+G:\Android\MapChat\MapChatService\MapChatService.DAL\bin\Debug\MapChatService.DAL.dll
+G:\Android\MapChat\MapChatService\MapChatService.DAL\bin\Debug\MapChatService.DAL.pdb
+G:\Android\MapChat\MapChatService\MapChatService.DAL\bin\Debug\MapChatService.DBUtility.dll
+G:\Android\MapChat\MapChatService\MapChatService.DAL\bin\Debug\MapChatService.Model.dll
+G:\Android\MapChat\MapChatService\MapChatService.DAL\bin\Debug\MapChatService.Command.dll
+G:\Android\MapChat\MapChatService\MapChatService.DAL\bin\Debug\MapChatService.DBUtility.pdb
+G:\Android\MapChat\MapChatService\MapChatService.DAL\bin\Debug\MapChatService.Model.pdb
+G:\Android\MapChat\MapChatService\MapChatService.DAL\bin\Debug\MapChatService.Command.pdb
+G:\Android\MapChat\MapChatService\MapChatService.DAL\obj\Debug\MapChatService.DAL.csprojResolveAssemblyReference.cache
+G:\Android\MapChat\MapChatService\MapChatService.DAL\obj\Debug\MapChatService.DAL.dll
+G:\Android\MapChat\MapChatService\MapChatService.DAL\obj\Debug\MapChatService.DAL.pdb

@@ -1,0 +1,5 @@
+G:\Android\MapChat\MapChatService\MapChatService.Command\bin\Debug\MapChatService.Command.dll
+G:\Android\MapChat\MapChatService\MapChatService.Command\bin\Debug\MapChatService.Command.pdb
+G:\Android\MapChat\MapChatService\MapChatService.Command\obj\Debug\MapChatService.Command.dll
+G:\Android\MapChat\MapChatService\MapChatService.Command\obj\Debug\MapChatService.Command.pdb
+G:\Android\MapChat\MapChatService\MapChatService.Command\obj\Debug\MapChatService.Common.csprojResolveAssemblyReference.cache
